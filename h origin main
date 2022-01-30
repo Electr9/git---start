@@ -1,0 +1,48 @@
+[33mcommit 0d878a2229290fcd7e2820b2810526f46de92879[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: b6bd128 cd9415f
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sun Jan 30 16:04:12 2022 +0200
+
+    resolved conflict
+
+[33mcommit b6bd1280aaf4881c52cfef328b04299469026744[m[33m ([m[1;32mheader[m[33m)[m
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sun Jan 30 15:56:52 2022 +0200
+
+    added header
+
+[33mcommit cd9415f79103a2aa5d152567fc7b11bf6ba99492[m[33m ([m[1;32mfooter[m[33m)[m
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sun Jan 30 15:55:33 2022 +0200
+
+    added footer
+
+[33mcommit 03e9119ee8882aeb18876e106cf1e6ddcd4fde51[m
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sun Jan 30 15:41:10 2022 +0200
+
+    removed heaser
+
+[33mcommit d19a3afadff3dc9cac9817bcc5840e81c1254a75[m
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sun Jan 30 14:58:52 2022 +0200
+
+    added header markup
+
+[33mcommit f51ff8f49f5a05d3b9f88102b84ae6eff8adc226[m
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sat Jan 29 17:38:31 2022 +0200
+
+    added bases markup
+
+[33mcommit be4a3e376846a26cef61ca9705abbe1d10f6cbaf[m
+Author: Girl Lavanda <girllavanda@gmail.com>
+Date:   Sat Jan 29 17:26:35 2022 +0200
+
+    added index.html
+
+[33mcommit edaefba0ba259b4782853da56016001599196a2a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Electr9 <97741003+Electr9@users.noreply.github.com>
+Date:   Sat Jan 29 16:46:41 2022 +0200
+
+    Initial commit
